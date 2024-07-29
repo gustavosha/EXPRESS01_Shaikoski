@@ -1,5 +1,5 @@
 const express = require('express');
-const path = require('path'); // Importar o módulo 'path'
+const path = require('path'); 
 const server2 = express();
 
 server2.get('/', (req, res) => {
